@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula 3 por Arthur</string>
+    <string name="hello">Olá Mundo!</string>
+    <string name="type_name">Digite seu nome</string>
+    <string name="btn_send">Enviar</string>
+    <string name="wellcome">Seja Bem Vindo, </string>
+</resources>
