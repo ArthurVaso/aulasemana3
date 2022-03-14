@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE LinearLayout [<!ELEMENT LinearLayout (TextView|EditText|Button)*>
-    <!ATTLIST LinearLayoutxmlns:app CDATA #REQUIREDxmlns:tools CDATA
-        #REQUIREDxmlns:android CDATA #REQUIREDandroid:layout_width CDATA
-        #REQUIREDandroid:layout_height CDATA
-        #REQUIREDtools:context CDATA #REQUIREDandroid:orientation CDATA
-        #REQUIRED><!ELEMENT TextView (#PCDATA)><!ATTLIST TextViewandroid:layout_width CDATA
-    #REQUIREDandroid:layout_height CDATA #REQUIREDandroid:text CDATA #REQUIRED>
-    <!ELEMENT EditText (#PCDATA)><!ATTLIST EditTextandroid:layout_width CDATA #REQUIREDandroid:layout_height CDATA
-    #REQUIREDandroid:id CDATA #REQUIREDandroid:inputType CDATA #REQUIRED><!ELEMENT Button (#PCDATA)><!ATTLIST Buttonandroid:layout_width CDATA
-    #REQUIREDandroid:layout_height CDATA #REQUIREDandroid:id CDATA #REQUIREDandroid:text CDATA #REQUIRED>]>
+
 <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"
